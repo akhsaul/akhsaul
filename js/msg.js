@@ -1,0 +1,1 @@
+alert("Ikhsan Maulana, XSS detected");
