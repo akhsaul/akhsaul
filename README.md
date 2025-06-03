@@ -6,6 +6,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=akhsaul&hide_border=true&show_icons=true&rank_icon=percentile&theme=dracula&include_all_commits=true&count_private=true&role=owner,collaborator&show=reviews,discussions_answered" alt="Ikhsan Maulana's Github stats" />
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=akhsaul.akhsaul)
+
 <!---
 akhsaul/akhsaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
