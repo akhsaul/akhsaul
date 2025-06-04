@@ -12,7 +12,7 @@ You can see my portfolio at [akhsaul](https://akhsaul.github.io)
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me @akhsaul (Telegram)-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhsaul&hide_border=true&show_icons=true&rank_icon=percentile&theme=dracula&include_all_commits=true&count_private=true&role=owner,collaborator&show=reviews,discussions_answered" alt="Ikhsan Maulana's Github stats" />
+<img src="https://github-readme-stats-ten-ashen-31.vercel.app/api?username=akhsaul&hide_border=true&show_icons=true&rank_icon=percentile&theme=dracula&include_all_commits=true&count_private=true&role=owner,collaborator&show=reviews,discussions_answered" alt="Ikhsan Maulana's Github stats" />
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akhsaul.akhsaul)
