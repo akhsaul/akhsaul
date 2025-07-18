@@ -1,5 +1,29 @@
 #!/bin/bash
 
+get_user_input() {
+  echo
+  
+  read -p "$(echo -e "Enter ZONE (contoh: us-central1-c): ")" ZONE
+  export ZONE
+  echo
+  
+  read -p "$(echo -e "Enter USER 2 (contoh: student-03-607e89dd10a8@qwiklabs.net):")" USER_2
+  export USER_2
+  echo
+  
+  read -p "$(echo -e "Enter TOPIC (contoh: topic-memories-268): ")" TOPIC
+  export TOPIC
+  echo
+  
+  read -p "$(echo -e "Enter FUNCTION (contoh: memories-thumbnail-creator: ")" FUNCTION
+  export FUNCTION
+  echo
+  
+  echo
+}
+
+get_user_input
+
 echo "Starting Execution"
 
 export REGION="${ZONE%-*}"
