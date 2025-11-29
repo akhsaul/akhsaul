@@ -1,10 +1,10 @@
-👋 Hi, I’m Ikhsan Maulana, you can call me isan
+<!--👋 Hi, I’m Ikhsan Maulana, you can call me isan-->
 
 I’m interested in Mobile Programming 👀
 
 <!--You can see my portfolio at [akhsaul](https://akhsaul.github.io)-->
 
-<img src="https://github-readme-stats-ten-ashen-31.vercel.app/api/wakatime?username=akhsaul&hide=toml,text,actionscript%203,Scalate%20Server%20Page,ezhil,idea_module,log,class,spi,actionscript" alt="Ikhsan Maulana's Wakatime"/>
+<!--<img src="https://github-readme-stats-ten-ashen-31.vercel.app/api/wakatime?username=akhsaul&hide=toml,text,actionscript%203,Scalate%20Server%20Page,ezhil,idea_module,log,class,spi,actionscript" alt="Ikhsan Maulana's Wakatime"/>-->
 
 
 <!---
